@@ -3,4 +3,3 @@ function twoDecimalPlaces(n) {
 }
 console.log(twoDecimalPlaces(12.234512));
 console.log(twoDecimalPlaces(12.234512654));
-console.log(twoDecimalPlaces(12.234512654));
